@@ -18,7 +18,7 @@ const { navigation } = useContent()
     </div>
     <!-- Social icons & Color Mode -->
     <div class="space-x-3 text-gray-500 transition">
-      <a href="https://twitter.com/Atinux" title="Twitter" class="hover:text-gray-700 dark:hover:text-gray-300"><Icon name="fa-brands:twitter" /></a>
+      <a href="https://t.me/hel8er/" title="Telegram" class="hover:text-gray-700 dark:hover:text-gray-300"><Icon name="fa-brands:telegram" /></a>
       <a href="https://github.com/hel8er/" title="GitHub" class="hover:text-gray-700 dark:hover:text-gray-300"><Icon name="fa-brands:github" /></a>
       <ColorModeSwitch class="hover:text-gray-700 dark:hover:text-gray-300" />
     </div>

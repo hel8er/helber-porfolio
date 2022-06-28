@@ -1,10 +1,10 @@
 ---
-navTitle: 'Porfolio'
+navTitle: 'Портфолио'
 ---
 # Портфолио:
 
-## [www.katerina-angelova.ru](https://www.katerina-angelova.ru)
+- [www.katerina-angelova.ru](https://www.katerina-angelova.ru)
 Сайт стилиста
 
-## [@vpnationbot](https://t.me/vpnationbot/)
+- [@vpnationbot](https://t.me/vpnationbot/)
 Телеграм бот для регистрации в VPN-сервисе со встроенной реферальной системой
