@@ -5,7 +5,8 @@
     "build": "nuxi build",
     "generate": "nuxi generate",
     "preview": "nuxi preview",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "deploy": "npm run generate && gh-pages -d .output/public"
   },
   "devDependencies": {
     "@iconify/vue": "^3.2.1",
