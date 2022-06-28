@@ -1,0 +1,5 @@
+---
+navTitle: 'Блог'
+---
+
+# Blog Index
