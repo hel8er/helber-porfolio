@@ -1,7 +1,7 @@
 ---
 navTitle: 'Портфолио'
 ---
-# Портфолио:
+# Портфолио
 
 - [www.katerina-angelova.ru](https://www.katerina-angelova.ru)
 Сайт стилиста
