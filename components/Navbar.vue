@@ -10,7 +10,7 @@ const { navigation } = useContent()
         v-for="link of navigation"
         :key="link._path"
         :to="link._path"
-        active-class="font-bold"
+        active-class="overline decoration-2 underline-offset-8"
         class="mr-4"
       >
         {{ link.navTitle || link.title }}
