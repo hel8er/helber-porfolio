@@ -7,8 +7,8 @@
 </template>
 
 <script setup lang="ts">
-const blogPosts = await queryContent('/_blog')
+const blogPosts = await queryContent('/blog/')
   .sort({ date: -1 }) // show latest articles first
-  .where({ _partial: true }) // exclude the Partial files
+  .where({ _partial: false }) // exclude the Partial files
   .find();
 </script>
