@@ -11,7 +11,7 @@ const { navigation } = useContent()
         :key="link._path"
         :to="link._path"
         active-class="overline decoration-2 underline-offset-8"
-        class="mr-4 uppercase"
+        class="mr-4"
       >
         {{ link.navTitle || link.title }}
       </NuxtLink>
