@@ -15,7 +15,7 @@ const { navigation } = useContent()
       >
         {{ link.navTitle || link.title }}
       </NuxtLink>
-      <NuxtLink to="#footer">Контакты</NuxtLink>
+      <!-- <NuxtLink to="#footer">Контакты</NuxtLink> -->
     </div>
     <!-- Social icons & Color Mode -->
     <div class="space-x-3 text-gray-500 transition">
