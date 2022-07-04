@@ -1,6 +1,10 @@
 ---
 date: 2018-05-11
 cover: /content/blog/a-great-article/cover.jpg
+tags:
+  - it
+  - ecommerce
+  - nuxtjs
 ---
 
 # Интеграция Битрикс24 со сторонним фронтендом

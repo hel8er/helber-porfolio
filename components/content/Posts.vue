@@ -11,4 +11,6 @@ const blogPosts = await queryContent('/blog/')
   .sort({ date: -1 }) // show latest articles first
   .where({ _partial: false }) // exclude the Partial files
   .find();
+
+// const blogPosts = await queryContent('blog').where({ tags: { $in: ['ecommerce', 'it'] } }).find()
 </script>
