@@ -4,9 +4,9 @@ tags:
   - web
   - it
 ---
-# Unsplash API
+# Ищем картинки в Unsplash напрямую из <img>
 
-![](https://source.unsplash.com/300x300/?placeholder)
+![Unsplash logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Unsplash_wordmark_logo.svg/220px-Unsplash_wordmark_logo.svg.png)
 
 Cссылка для получения ищображения заданых парметров с  Unsplash
 
