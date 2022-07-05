@@ -5,6 +5,7 @@ tags:
   - it
 ---
 # Ищем картинки в Unsplash напрямую из img
+Чтобы не гуглить
 
 ![Unsplash logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Unsplash_wordmark_logo.svg/220px-Unsplash_wordmark_logo.svg.png)
 

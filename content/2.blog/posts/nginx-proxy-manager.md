@@ -1,4 +1,5 @@
 ---
+cover: https://nginxproxymanager.com/logo.png
 tags:
   - it
   - nginx
@@ -6,6 +7,6 @@ tags:
 ---
 # NGINX Proxy Manager
 ![](https://nginxproxymanager.com/logo.png)
-Про Web UI, и получение готового SSL в два клика
+Nginx hosts и LetsEncrypt для ленивых
 
 *[Статья в разработке]*
