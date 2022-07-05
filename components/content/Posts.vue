@@ -2,14 +2,10 @@
 
     <ContentList path="/blog/posts" v-slot="{ list }">
 
-      <div v-for="post in list" :key="post._path">
-      <hr>
-      <NuxtLink :to="post._path">{{ post.title }}</NuxtLink>
+      <ul v-for="post in list" :key="post._path">
+      <li><NuxtLink :to="post._path">{{ post.title }}</NuxtLink></li>
       
-      <!-- <img class="h-24" :src="post.cover" alt=""> -->
-      <p><i>{{ post.description }}</i></p>
-      
-      </div>
+      </ul>
 
     </ContentList>
 
